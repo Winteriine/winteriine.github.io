@@ -24,7 +24,8 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - youtube test: "https://www.youtube.com/u/Winteriine"
+  Toyhouse: "https://www.toyhou.se/"
 
 ################
 # --- Logo --- #
